@@ -6,4 +6,13 @@ The painting involved priming the wood, adding a solid gray base layer, and then
 
 ## Images
 
-![Outdoor Benches Image 1](/OutdoorBenches/OB_1.jpeg)
+Both benches side by side
+![Outdoor Benches side by side](/OutdoorBenches/OB_1.jpeg)
+
+Bench taped up after priming
+![Bench taped for color paint coats](/OutdoorBenches/Paint_Prep_OB.jpeg)
+
+Additional images of the benches
+![Image of bench](/OutdoorBenches/OB_3.jpeg)
+![Image of bench](/OutdoorBenches/OB_4.jpeg)
+![Images of benches](/OutdoorBenches/OB_2.jpeg)
