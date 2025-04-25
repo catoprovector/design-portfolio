@@ -4,11 +4,11 @@ Welcome to my design portfolio. This repository showcases a selection of images,
 
 ## Projects
 
-[Outdoor Benches](OutdoorBenches/README.md) – Simple wooden benches.
+[Outdoor Benches](OutdoorBenches) – Colorful wooden benches.
 
-LPL Stained Glass t – a lighting piece made of plexiglass, epoxy, and old electonics.
+[LPL Stained Glass "t"](StainedGlass"t") – a lighting piece made of plexiglass, epoxy, and old electonics.
 
-MyStat Housing – Custom casing for lab equipment to improve usability and aesthetics.
+[MyStat Housing](MyStatHousing) – Custom casing for lab equipment to improve usability and aesthetics.
 
 Bacterial Tiles – 3D-printed tiles designed for cultivating color-producing bacteria.
 
