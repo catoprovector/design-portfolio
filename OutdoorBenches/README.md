@@ -6,4 +6,4 @@ The painting involved priming the wood, adding a solid gray base layer, and then
 
 ## Images
 
-![Outdoor Benches Image 1]/OutdoorBenches/OB_1
+![Outdoor Benches Image 1](/OutdoorBenches/OB_1)
