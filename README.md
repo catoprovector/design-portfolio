@@ -17,6 +17,6 @@ Projects
 
 This portfolio is maintained as part of my application materials and general documentation of my design work.
 
-Joshua Hauser
-josh@telementor.com
+Joshua Hauser/
+josh@telementor.com/
 www.linkedin.com/in/joshua-hauser-bio
