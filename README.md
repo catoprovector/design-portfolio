@@ -4,7 +4,7 @@ Welcome to my design portfolio. This repository showcases a selection of images,
 
 ## Projects
 
-Outdoor Benches – Simple wooden benches.
+[Outdoor Benches](OutdoorBenches/README.md) – Simple wooden benches.
 
 LPL Stained Glass t – a lighting piece made of plexiglass, epoxy, and old electonics.
 
