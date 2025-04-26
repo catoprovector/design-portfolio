@@ -1,4 +1,4 @@
-# design-portfolio
+# Design Portfolio
 
 Welcome to my design portfolio. This repository showcases a selection of images, files, and documentation from various prototyping and design projects I’ve worked on. My background combines biology, engineering, and hands-on fabrication, and I enjoy creating practical, well-thought-out solutions—whether in the lab, workshop, or studio. This portfolio is maintained as part of my application materials and general documentation of my design work.
 
