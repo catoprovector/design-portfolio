@@ -4,17 +4,19 @@ Welcome to my design portfolio. This repository showcases a selection of images,
 
 ## Projects
 
-[Outdoor Benches](OutdoorBenches) – Colorful wooden benches.
+[Filament Drying Drawer](FilamentDryingDrawer) – A custom drawer solution for drying and storing 3D printing filament.
 
 [LPL Stained Glass "t"](StainedGlass"t") – a lighting piece made of plexiglass, epoxy, and old electonics.
 
 [MyStat Housing](MyStatHousing) – Custom casing for lab equipment to improve usability and aesthetics.
 
-Bacterial Tiles – 3D-printed tiles designed for cultivating color-producing bacteria.
+[Outdoor Benches](OutdoorBenches) – Colorful wooden benches.
 
-Filament Drying Drawer – A custom drawer solution for drying and storing 3D printing filament.
+[OTC Field Warming Setup](OTCFieldWarmingSetup) – A field-deployable warming system for ecological experiments.
 
-OTC Field Warming Setup – A field-deployable warming system for ecological experiments.
+[Shelf Foot](ShelfFoot) - A simple standoff to raise the height of a shelf.
+
+[Speaker Stands](SpeakerStands) - Simple stands for a pair of large speakers.
 
 ## Contact info
 Joshua Hauser\
