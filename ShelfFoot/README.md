@@ -12,4 +12,4 @@ The design needed to:
 They were printed in PLA with 15% infill for a good balance of strength and print time. No post-processing was needed after printing.
 
 ## Photo
-![Image of the shelf foot](/Shelf_Foot.jpeg)
+![Image of the shelf foot](/ShelfFoot/Shelf_Foot.jpeg)
