@@ -1,6 +1,6 @@
 # MyStat Housing
 
-This project is a custom 3D printed housing for the open-source MyStat potentiostat, designed for use in experimental flow battery setups as part of the FAIR Battery / Flow Battery Research Collective. The housing provides a compact, durable, and functional enclosure for the circuit board, protecting it from spills and wear during lab work.
+This project is a custom 3D printed housing for the open-source MyStat potentiostat, designed for use in experimental flow battery setups as part of the FAIR Battery / [Flow Battery Research Collective](https://fbrc.dev/). The housing provides a compact, durable, and functional enclosure for the circuit board, protecting it from spills and wear during lab work.
 
 ## Design Overview
 
@@ -16,5 +16,5 @@ The MyStat is an open-source potentiostat used in electrochemical experiments, i
 
 ## Files
 
-- `Photos/` – Images of the final housing and prototyping process  
-- `CAD/` – STL and design files for the body, fan panel, vented panel, and logo debossing
+- [Photos](Photos) – Images and a video of the final housing 
+- [CAD](CAD) – STL and design files for the body, fan panel, and vented panel
