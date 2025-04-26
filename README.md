@@ -22,3 +22,7 @@ Welcome to my design portfolio. This repository showcases a selection of images,
 Joshua Hauser\
 josh@telementor.com\
 www.linkedin.com/in/joshua-hauser-bio
+
+## License
+This portfolio is shared under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+Feel free to use, adapt, and build upon this work — just remember to credit me and share any derivative works under the same license.
