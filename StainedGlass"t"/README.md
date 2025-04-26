@@ -1,4 +1,4 @@
-# stained glass "t"
+# Stained Glass "t"
 
 This multi-material lighting sculpture was created for Lily's Prototyping Lab at Utrecht University. Installed above the lab entrance as the letter **"t"** in “Proto,” the piece combines upcycled electronics, stained glass-inspired design, and custom dynamic lighting. It highlights themes of reuse, precision fabrication, and layered visual design.
 
