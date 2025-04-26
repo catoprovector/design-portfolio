@@ -16,7 +16,12 @@ The sculpture reuses components from discarded electronics, embedding them in ep
 
 ## Files
 
-- `Photos/` – Process and installation photos  
-- `Code/` – Arduino sketch for LED control  
-- `CAD/` – 3D models for the tile blanks, clips, and hangers  
-- `LaserCutFiles/` – Honeycomb grid and back panel DXFs
+- [Photos](Photos) – Process and installation photos  
+- [Code](Code) – Arduino sketch for LED control  
+- [CAD](CAD) – 3D models for the tile blanks and hangers  
+- [LaserCutFiles](LaserCutFiles) – Honeycomb grid and back panel SVGs
+
+## Example Images
+
+![Image of the t with red LEDs](/StainedGlass"t"/Photos/RedLEDs.jpeg)
+![Close up of one of the epoxy tiles](/StainedGlass"t"/Photos/Tile_1.jpeg)
