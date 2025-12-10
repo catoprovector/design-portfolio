@@ -13,5 +13,8 @@ The design goals were simplicity, functionality, and elegance. The printed feet 
 
 ## Images
 
-![Front view](SpeakerStands/Speaker_Stand_Front.jpeg)
-![Top view](SpeakerStands/Speaker_Stand_Top.jpeg)
+Front View
+![Front view](/SpeakerStands/Speaker_Stand_Front.jpeg)
+
+Top View
+![Top view](/SpeakerStands/Speaker_Stand_Top.jpeg)
