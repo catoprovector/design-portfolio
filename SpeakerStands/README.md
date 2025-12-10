@@ -10,3 +10,8 @@ The stands consist of:
 - Small nuts and bolts securing everything together.
 
 The design goals were simplicity, functionality, and elegance. The printed feet hold the aluminum pieces in place securely and distribute the weight of the speaker evenly. Assembly was quick and modular, with no adhesives or post-processing required.
+
+## Images
+
+![Front view](SpeakerStands/Speaker_Stand_Front.jpeg)
+![Top view](SpeakerStands/Speaker_Stand_Top.jpeg)
